@@ -1,0 +1,262 @@
+2022/06/23 16:26:10 - f_orders - Using run configuration [Pentaho local]
+2022/06/23 16:26:10 - f_orders - Using legacy execution engine
+2022/06/23 16:26:10 - f_orders - Expedindo in?cio para transforma??o [f_orders]
+2022/06/23 16:26:10 - carga tabela fato.0 - Connected to database [mysql] (commit=1000)
+2022/06/23 16:26:10 - csv deliveries.0 - Header row skipped in file 'C:\Users\francisco.costa\Documents\deliveryCenter\planilhas\deliveries.csv'
+2022/06/23 16:26:10 - csv stores.0 - Header row skipped in file 'C:\Users\francisco.costa\Downloads\Telegram Desktop\deliveryCenter\stores.csv'
+2022/06/23 16:26:10 - csv orders - extração.0 - Header row skipped in file 'C:\Users\francisco.costa\Documents\deliveryCenter\planilhas\orders.csv'
+2022/06/23 16:26:10 - csv stores.0 - Finished processing (I=952, O=0, R=0, W=951, U=0, E=0)
+2022/06/23 16:26:10 - formatar strings 2.0 - Finished processing (I=0, O=0, R=951, W=951, U=0, E=0)
+2022/06/23 16:26:10 - csv deliveries.0 - Line number : 50000
+2022/06/23 16:26:10 - remover colunas.0 - linenr 50000
+2022/06/23 16:26:10 - csv deliveries.0 - Line number : 100000
+2022/06/23 16:26:10 - remover colunas.0 - linenr 100000
+2022/06/23 16:26:10 - csv deliveries.0 - Line number : 150000
+2022/06/23 16:26:10 - remover colunas.0 - linenr 150000
+2022/06/23 16:26:10 - csv deliveries.0 - Line number : 200000
+2022/06/23 16:26:10 - remover colunas.0 - linenr 200000
+2022/06/23 16:26:11 - csv deliveries.0 - Line number : 250000
+2022/06/23 16:26:11 - remover colunas.0 - linenr 250000
+2022/06/23 16:26:11 - csv deliveries.0 - Line number : 300000
+2022/06/23 16:26:12 - remover colunas.0 - linenr 300000
+2022/06/23 16:26:12 - csv deliveries.0 - Line number : 350000
+2022/06/23 16:26:12 - remover colunas.0 - linenr 350000
+2022/06/23 16:26:14 - csv deliveries.0 - Line number : 400000
+2022/06/23 16:26:18 - remover colunas.0 - linenr 400000
+2022/06/23 16:26:20 - csv deliveries.0 - Line number : 450000
+2022/06/23 16:26:20 - remover colunas.0 - linenr 450000
+2022/06/23 16:26:20 - csv deliveries.0 - Line number : 500000
+2022/06/23 16:26:21 - remover colunas.0 - linenr 500000
+2022/06/23 16:26:21 - csv deliveries.0 - Line number : 550000
+2022/06/23 16:26:21 - remover colunas.0 - linenr 550000
+2022/06/23 16:26:22 - csv deliveries.0 - Line number : 600000
+2022/06/23 16:26:22 - remover colunas.0 - linenr 600000
+2022/06/23 16:26:22 - csv deliveries.0 - Line number : 650000
+2022/06/23 16:26:22 - remover colunas.0 - linenr 650000
+2022/06/23 16:26:23 - csv deliveries.0 - Line number : 700000
+2022/06/23 16:26:23 - remover colunas.0 - linenr 700000
+2022/06/23 16:26:23 - csv deliveries.0 - Line number : 750000
+2022/06/23 16:26:24 - remover colunas.0 - linenr 750000
+2022/06/23 16:26:25 - csv deliveries.0 - Line number : 800000
+2022/06/23 16:26:26 - remover colunas.0 - linenr 800000
+2022/06/23 16:26:27 - csv deliveries.0 - Line number : 850000
+2022/06/23 16:26:30 - remover colunas.0 - linenr 850000
+2022/06/23 16:26:30 - csv deliveries.0 - Line number : 900000
+2022/06/23 16:26:30 - remover colunas.0 - linenr 900000
+2022/06/23 16:26:30 - csv deliveries.0 - Line number : 950000
+2022/06/23 16:26:30 - remover colunas.0 - linenr 950000
+2022/06/23 16:26:31 - csv deliveries.0 - Line number : 1000000
+2022/06/23 16:26:31 - remover colunas.0 - linenr 1000000
+2022/06/23 16:26:31 - csv deliveries.0 - Finished processing (I=1041449, O=0, R=0, W=1041448, U=0, E=0)
+2022/06/23 16:26:32 - formatar strings.0 - Finished processing (I=0, O=0, R=1041448, W=1041448, U=0, E=0)
+2022/06/23 16:26:32 - remover colunas.0 - Finished processing (I=0, O=0, R=1041448, W=1041448, U=0, E=0)
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68405119], [3512], [5], [68405119], [68405119], [CANCELED], [62.7], [0], [null], [0], [1], [1], [1], [2021], [01/01/2021 00:01:36], [null], [null], [null], [null], [null], [null], [null], [null], [75]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68405119' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68405123], [3512], [5], [68405123], [68405123], [CANCELED], [62.7], [0], [null], [0], [4], [1], [1], [2021], [01/01/2021 00:04:26], [null], [null], [null], [null], [null], [null], [null], [null], [75]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68405123' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68405206], [3512], [5], [68405206], [68405206], [CANCELED], [115.5], [0], [null], [0], [13], [1], [1], [2021], [01/01/2021 00:13:07], [null], [null], [null], [null], [null], [null], [null], [null], [75]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68405206' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68405465], [3401], [5], [68405465], [68405465], [CANCELED], [55.9], [0], [null], [0], [19], [1], [1], [2021], [01/01/2021 00:19:15], [null], [null], [null], [null], [null], [null], [null], [null], [43]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68405465' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68406064], [3401], [5], [68406064], [68406064], [CANCELED], [37.9], [0], [null], [0], [26], [1], [1], [2021], [01/01/2021 00:26:25], [null], [null], [null], [null], [null], [null], [null], [null], [43]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68406064' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68408108], [786], [5], [68408108], [68408108], [CANCELED], [80], [9.9], [null], [0], [56], [1], [1], [2021], [01/01/2021 00:56:19], [null], [null], [null], [null], [null], [null], [null], [null], [33]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68408108' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68408109], [1125], [5], [68408109], [68408109], [CANCELED], [71], [9.9], [null], [0], [56], [1], [1], [2021], [01/01/2021 00:56:49], [null], [null], [null], [null], [null], [null], [null], [null], [36]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68408109' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68409030], [1064], [35], [68409030], [68409030], [CANCELED], [214.8], [0.01], [0], [1], [56], [1], [1], [2021], [01/01/2021 01:56:42], [01/01/2021 01:57:00], [null], [null], [null], [null], [null], [null], [null], [8]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68409030' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68410055], [2181], [35], [68410055], [68410055], [FINISHED], [394.8], [0.01], [6], [2], [32], [1], [1], [2021], [01/01/2021 02:32:51], [01/01/2021 02:33:00], [02/01/2021 18:24:00], [02/01/2021 18:30:00], [02/01/2021 18:31:00], [02/01/2021 18:35:00], [null], [02/01/2021 18:57:00], [10239], [13]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68410055' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68412121], [1152], [5], [68412121], [68412121], [CANCELED], [25.5], [9.9], [null], [13], [57], [1], [1], [2021], [01/01/2021 13:57:21], [null], [null], [null], [null], [null], [null], [null], [null], [8]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68412121' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68412122], [490], [5], [68412122], [68412122], [CANCELED], [30], [5.9], [null], [13], [57], [1], [1], [2021], [01/01/2021 13:57:21], [null], [null], [null], [null], [null], [null], [null], [null], [22]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68412122' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68412123], [674], [5], [68412123], [68412123], [CANCELED], [74.5], [5.9], [null], [13], [57], [1], [1], [2021], [01/01/2021 13:57:31], [null], [null], [null], [null], [null], [null], [null], [null], [29]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68412123' for key 'PRIMARY'
+2022/06/23 16:26:32 - lookup driver_id.0 - linenr 1050000
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68412131], [490], [5], [68412131], [68412131], [CANCELED], [48], [7.9], [null], [13], [58], [1], [1], [2021], [01/01/2021 13:58:01], [null], [null], [null], [null], [null], [null], [null], [null], [22]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68412131' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68412134], [679], [5], [68412134], [68412134], [CANCELED], [34.9], [9.9], [null], [13], [58], [1], [1], [2021], [01/01/2021 13:58:32], [null], [null], [null], [null], [null], [null], [null], [null], [18]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68412134' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68412148], [294], [5], [68412148], [68412148], [CANCELED], [34], [6.9], [null], [14], [2], [1], [1], [2021], [01/01/2021 14:02:01], [null], [null], [null], [null], [null], [null], [null], [null], [13]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68412148' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68412322], [294], [5], [68412322], [68412322], [CANCELED], [39.3], [9.9], [null], [14], [6], [1], [1], [2021], [01/01/2021 14:06:31], [null], [null], [null], [null], [null], [null], [null], [null], [13]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68412322' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68412444], [294], [5], [68412444], [68412444], [CANCELED], [41.5], [9.9], [null], [14], [8], [1], [1], [2021], [01/01/2021 14:08:11], [null], [null], [null], [null], [null], [null], [null], [null], [13]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68412444' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68412721], [631], [5], [68412721], [68412721], [FINISHED], [195.05], [11.9], [10.93], [14], [12], [1], [1], [2021], [01/01/2021 14:12:11], [01/01/2021 14:12:00], [01/01/2021 14:38:00], [01/01/2021 14:38:00], [01/01/2021 14:39:00], [01/01/2021 14:49:00], [null], [01/01/2021 16:12:00], [8378], [28]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68412721' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68413340], [631], [5], [68413340], [68413340], [FINISHED], [46.9], [11.9], [11.36], [14], [14], [1], [1], [2021], [01/01/2021 14:14:51], [01/01/2021 14:15:00], [01/01/2021 14:29:00], [01/01/2021 14:36:00], [01/01/2021 14:39:00], [01/01/2021 14:42:00], [null], [01/01/2021 15:31:00], [8378], [28]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68413340' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - WARNING: Couldn't insert row into table: [68414018], [3265], [5], [68414018], [68414018], [FINISHED], [45.8], [0], [10.28], [14], [17], [1], [1], [2021], [01/01/2021 14:17:31], [01/01/2021 14:20:00], [01/01/2021 14:45:00], [01/01/2021 14:55:00], [01/01/2021 14:55:00], [01/01/2021 14:58:00], [null], [01/01/2021 15:09:00], [10463], [37]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68414018' for key 'PRIMARY'
+2022/06/23 16:26:32 - carga tabela fato.0 - FINAL WARNING (no more then 20 displayed): Couldn't insert row into table: [68414309], [236], [5], [68414309], [68414309], [FINISHED], [94.9], [11.9], [6], [14], [21], [1], [1], [2021], [01/01/2021 14:21:02], [01/01/2021 14:21:00], [01/01/2021 14:36:00], [01/01/2021 14:39:00], [01/01/2021 14:42:00], [01/01/2021 14:43:00], [null], [01/01/2021 14:50:00], [2473], [13]
+2022/06/23 16:26:32 - carga tabela fato.0 - 
+2022/06/23 16:26:32 - carga tabela fato.0 - Error inserting/updating row
+2022/06/23 16:26:32 - carga tabela fato.0 - Duplicate entry '68414309' for key 'PRIMARY'
+2022/06/23 16:26:33 - csv orders - extração.0 - Line number : 50000
+2022/06/23 16:26:36 - lookup driver_id.0 - linenr 1100000
+2022/06/23 16:26:36 - revisão.0 - Linenr 50000
+2022/06/23 16:26:37 - lookup hub_id.0 - linenr 50000
+2022/06/23 16:26:38 - carga tabela fato.0 - linenr 50000
+2022/06/23 16:26:38 - csv orders - extração.0 - Line number : 100000
+2022/06/23 16:26:41 - lookup driver_id.0 - linenr 1150000
+2022/06/23 16:26:41 - revisão.0 - Linenr 100000
+2022/06/23 16:26:42 - lookup hub_id.0 - linenr 100000
+2022/06/23 16:26:43 - carga tabela fato.0 - linenr 100000
+2022/06/23 16:26:43 - csv orders - extração.0 - Line number : 150000
+2022/06/23 16:26:46 - lookup driver_id.0 - linenr 1200000
+2022/06/23 16:26:46 - revisão.0 - Linenr 150000
+2022/06/23 16:26:47 - lookup hub_id.0 - linenr 150000
+2022/06/23 16:26:48 - carga tabela fato.0 - linenr 150000
+2022/06/23 16:26:48 - csv orders - extração.0 - Line number : 200000
+2022/06/23 16:26:51 - lookup driver_id.0 - linenr 1250000
+2022/06/23 16:26:51 - revisão.0 - Linenr 200000
+2022/06/23 16:26:52 - lookup hub_id.0 - linenr 200000
+2022/06/23 16:26:53 - carga tabela fato.0 - linenr 200000
+2022/06/23 16:26:53 - csv orders - extração.0 - Line number : 250000
+2022/06/23 16:26:57 - lookup driver_id.0 - linenr 1300000
+2022/06/23 16:26:57 - revisão.0 - Linenr 250000
+2022/06/23 16:26:58 - lookup hub_id.0 - linenr 250000
+2022/06/23 16:26:59 - carga tabela fato.0 - linenr 250000
+2022/06/23 16:26:59 - csv orders - extração.0 - Line number : 300000
+2022/06/23 16:27:02 - lookup driver_id.0 - linenr 1350000
+2022/06/23 16:27:02 - revisão.0 - Linenr 300000
+2022/06/23 16:27:03 - lookup hub_id.0 - linenr 300000
+2022/06/23 16:27:04 - carga tabela fato.0 - linenr 300000
+2022/06/23 16:27:04 - csv orders - extração.0 - Line number : 350000
+2022/06/23 16:27:07 - lookup driver_id.0 - linenr 1400000
+2022/06/23 16:27:07 - revisão.0 - Linenr 350000
+2022/06/23 16:27:08 - lookup hub_id.0 - linenr 350000
+2022/06/23 16:27:09 - carga tabela fato.0 - linenr 350000
+2022/06/23 16:27:09 - csv orders - extração.0 - Line number : 400000
+2022/06/23 16:27:12 - lookup driver_id.0 - linenr 1450000
+2022/06/23 16:27:12 - revisão.0 - Linenr 400000
+2022/06/23 16:27:13 - lookup hub_id.0 - linenr 400000
+2022/06/23 16:27:15 - carga tabela fato.0 - linenr 400000
+2022/06/23 16:27:15 - csv orders - extração.0 - Line number : 450000
+2022/06/23 16:27:18 - lookup driver_id.0 - linenr 1500000
+2022/06/23 16:27:18 - revisão.0 - Linenr 450000
+2022/06/23 16:27:19 - lookup hub_id.0 - linenr 450000
+2022/06/23 16:27:20 - carga tabela fato.0 - linenr 450000
+2022/06/23 16:27:20 - csv orders - extração.0 - Line number : 500000
+2022/06/23 16:27:23 - lookup driver_id.0 - linenr 1550000
+2022/06/23 16:27:24 - revisão.0 - Linenr 500000
+2022/06/23 16:27:25 - lookup hub_id.0 - linenr 500000
+2022/06/23 16:27:26 - carga tabela fato.0 - linenr 500000
+2022/06/23 16:27:26 - csv orders - extração.0 - Line number : 550000
+2022/06/23 16:27:29 - lookup driver_id.0 - linenr 1600000
+2022/06/23 16:27:29 - revisão.0 - Linenr 550000
+2022/06/23 16:27:30 - lookup hub_id.0 - linenr 550000
+2022/06/23 16:27:31 - carga tabela fato.0 - linenr 550000
+2022/06/23 16:27:32 - csv orders - extração.0 - Line number : 600000
+2022/06/23 16:27:35 - lookup driver_id.0 - linenr 1650000
+2022/06/23 16:27:35 - revisão.0 - Linenr 600000
+2022/06/23 16:27:36 - lookup hub_id.0 - linenr 600000
+2022/06/23 16:27:37 - carga tabela fato.0 - linenr 600000
+2022/06/23 16:27:37 - csv orders - extração.0 - Line number : 650000
+2022/06/23 16:27:40 - lookup driver_id.0 - linenr 1700000
+2022/06/23 16:27:40 - revisão.0 - Linenr 650000
+2022/06/23 16:27:41 - lookup hub_id.0 - linenr 650000
+2022/06/23 16:27:43 - carga tabela fato.0 - linenr 650000
+2022/06/23 16:27:43 - csv orders - extração.0 - Line number : 700000
+2022/06/23 16:27:46 - lookup driver_id.0 - linenr 1750000
+2022/06/23 16:27:46 - revisão.0 - Linenr 700000
+2022/06/23 16:27:47 - lookup hub_id.0 - linenr 700000
+2022/06/23 16:27:48 - carga tabela fato.0 - linenr 700000
+2022/06/23 16:27:48 - csv orders - extração.0 - Line number : 750000
+2022/06/23 16:27:51 - lookup driver_id.0 - linenr 1800000
+2022/06/23 16:27:51 - revisão.0 - Linenr 750000
+2022/06/23 16:27:52 - lookup hub_id.0 - linenr 750000
+2022/06/23 16:27:53 - carga tabela fato.0 - linenr 750000
+2022/06/23 16:27:53 - csv orders - extração.0 - Line number : 800000
+2022/06/23 16:27:56 - lookup driver_id.0 - linenr 1850000
+2022/06/23 16:27:56 - revisão.0 - Linenr 800000
+2022/06/23 16:27:57 - lookup hub_id.0 - linenr 800000
+2022/06/23 16:27:59 - carga tabela fato.0 - linenr 800000
+2022/06/23 16:27:59 - csv orders - extração.0 - Line number : 850000
+2022/06/23 16:28:02 - lookup driver_id.0 - linenr 1900000
+2022/06/23 16:28:02 - revisão.0 - Linenr 850000
+2022/06/23 16:28:03 - lookup hub_id.0 - linenr 850000
+2022/06/23 16:28:04 - carga tabela fato.0 - linenr 850000
+2022/06/23 16:28:04 - csv orders - extração.0 - Line number : 900000
+2022/06/23 16:28:08 - lookup driver_id.0 - linenr 1950000
+2022/06/23 16:28:08 - revisão.0 - Linenr 900000
+2022/06/23 16:28:09 - lookup hub_id.0 - linenr 900000
+2022/06/23 16:28:10 - carga tabela fato.0 - linenr 900000
+2022/06/23 16:28:10 - csv orders - extração.0 - Line number : 950000
+2022/06/23 16:28:13 - lookup driver_id.0 - linenr 2000000
+2022/06/23 16:28:13 - revisão.0 - Linenr 950000
+2022/06/23 16:28:14 - lookup hub_id.0 - linenr 950000
+2022/06/23 16:28:15 - carga tabela fato.0 - linenr 950000
+2022/06/23 16:28:15 - csv orders - extração.0 - Line number : 1000000
+2022/06/23 16:28:17 - csv orders - extração.0 - Finished processing (I=1012686, O=0, R=0, W=1012685, U=0, E=0)
+2022/06/23 16:28:18 - formatação de strings.0 - Finished processing (I=0, O=0, R=1012685, W=1012685, U=0, E=0)
+2022/06/23 16:28:18 - lookup driver_id.0 - linenr 2050000
+2022/06/23 16:28:19 - revisão.0 - Linenr 1000000
+2022/06/23 16:28:19 - lookup driver_id.0 - Finished processing (I=0, O=0, R=2054133, W=1012685, U=0, E=0)
+2022/06/23 16:28:20 - lookup hub_id.0 - linenr 1000000
+2022/06/23 16:28:20 - revisão.0 - Finished processing (I=0, O=0, R=1012685, W=1012685, U=0, E=0)
+2022/06/23 16:28:21 - carga tabela fato.0 - linenr 1000000
+2022/06/23 16:28:21 - lookup hub_id.0 - Finished processing (I=0, O=0, R=1013636, W=1012685, U=0, E=0)
+2022/06/23 16:28:22 - carga tabela fato.0 - Finished processing (I=0, O=1012685, R=1012685, W=1012685, U=0, E=0)
+ssing (I=0, O=1012685, R=1012685, W=1012685, U=0, E=0)
+2022/06/23 16:28:22 - main - Starting entry [Success]
+2022/06/23 16:28:22 - main - Starting entry [Mail Success]
+2022/06/23 16:28:37 - main - Finished job entry [Mail Success] (result=[true])
+2022/06/23 16:28:37 - main - Finished job entry [Success] (result=[true])
+2022/06/23 16:28:37 - main - Finished job entry [f_orders] (result=[true])
+2022/06/23 16:28:37 - main - Finished job entry [d_payments] (result=[true])
+2022/06/23 16:28:37 - main - Finished job entry [d_drivers] (result=[true])
+2022/06/23 16:28:37 - main - Finished job entry [d_deliveries] (result=[true])
+2022/06/23 16:28:37 - main - Finished job entry [d_stores] (result=[true])
+2022/06/23 16:28:37 - main - Finished job entry [d_channel] (result=[true])
+2022/06/23 16:28:37 - main - Finished job entry [d_horario] (result=[true])
+2022/06/23 16:28:37 - main - Finished job entry [d_calendario] (result=[true])
+2022/06/23 16:28:37 - main - Job execution finished
+2022/06/23 16:28:37 - Kitchen - Finished!
+2022/06/23 16:28:37 - Kitchen - Start=2022/06/23 16:23:06.877, Stop=2022/06/23 16:28:37.618
+2022/06/23 16:28:37 - Kitchen - Processing ended after 5 minutes and 30 seconds (330 seconds total).
+ 
+ 
